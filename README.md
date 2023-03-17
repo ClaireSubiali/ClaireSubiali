@@ -18,6 +18,8 @@ Bienvenue sur mon profil Github !
 
 Les deux repo sont disponibles sur mon profil, n'hésitez pas à me faire des retours, ils sont toujours les bienvenus !
 
+Le Repo Meeple Bons Plans Front contient la partie front du projet de fin de cursus auquel j'ai participé lors de ma formation.
+
 
 ### 📫 Pour prendre contact, deux options s'offrent à vous : par mail claire.subiali@gmail.com ou via [Linkedin](https://www.linkedin.com/in/claire-subiali/).
 
