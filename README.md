@@ -1,27 +1,21 @@
-# Bonjour ! 👋
+# Hello ! 👋
 
-Bienvenue sur mon profil Github !
+Welcome on my GitHub profile !
 
-🌱 Jeune pousse reconvertie dans le développement web qui cherche une entrerpise où mettre en pratique ses acquis et développer ses compétences en alternance 🌻 
+🌱I'm currently in an apprenticeship in web development.
 
-📖 Issue d'une formation fullstack, je me suis découvert une appétance paticulière pour le front-end (HTML/CSS/Javascript/React/React-Redux) tout en restant polyvalente avec une bonne capacité d'apprentissage et d'adaptation.
+## 💻 🖱️ Current side-project :
 
+📋 🏤 I'm working on a website for an association to which I belong : [Des Sapins aux Cerisiers](https://github.com/ClaireSubiali/association-sapins-cerisiers)
 
-## 💻 🖱️ Je travaille actuellement sur deux projets :
+## Portfolio and last projects:
 
-📋 🏤 Le site web d'une association à laquelle j'adhère. Etape en cours: l'intégration. Etapes à venir : la dynamisation avec PHP et les interactions avec Javascript. Idéalement, dans un second temps :la création d'une base de données (+api) et d'un petit back-office pour la rédaction d'articles pour permettre l'ajout de contenu pour un "non développeur".
-
-🌳 🌼 Un projet personnel d'application d'aide à la gestion de potager; Jardinette. Je me concentre pour le moment sur un module d'affichage météo qui se vera complété par d'autres fonctionnalités rassemblées en un projet final (to-do list, catalogue des plantes, rappels de plantation, etc...). 
- 
+You can check my last projects [here](https://clairesubiali.github.io/) (*page currently under construction*). 
 
 
-
-Les deux repo sont disponibles sur mon profil, n'hésitez pas à me faire des retours, ils sont toujours les bienvenus !
-
-Le Repo Meeple Bons Plans Front contient la partie front du projet de fin de cursus auquel j'ai participé lors de ma formation.
+## 📫 To contact me, you can send me a message at claire.subiali@gmail.com or with [Linkedin](https://www.linkedin.com/in/claire-subiali/).
 
 
-### 📫 Pour prendre contact, deux options s'offrent à vous : par mail claire.subiali@gmail.com ou via [Linkedin](https://www.linkedin.com/in/claire-subiali/).
 
 
 
